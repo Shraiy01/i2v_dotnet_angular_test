@@ -34,7 +34,7 @@ If you are unable to set up the angular application, you can use the tools like 
 1. Open a browser and navigate to `http://localhost:4200/`, the Angular application should be displayed, Navigate to `Hash` tab.
 2. Enter your `first name` in the input field on the Angular application
 3. Click the `Generate Hash` button. If the dotnet API is running correctly, and the logic is correct, the hash value should be displayed below the button.
-4. Ex: If you enter `archit` in the input field, the hash value should be `92A1B1799146E7EBE480694175806E3A01755A84D9F316B807D7D9C6280FE6B8` for the name `John` as per the correct logic to be.
+4. Ex: If you enter `archit` in the input field, the hash value should be `92A1B1799146E7EBE480694175806E3A01755A84D9F316B807D7D9C6280FE6B8` for the name `John` as per the correct logic to be `96D9632F363564CC3032521409CF22A852F2032EEC099ED5967C0D000CEC607A`.
 5. The hash value for the name should be displayed below the button. Copy the hash value.
 
 ### Paste the hash value Here in the readme file: 
